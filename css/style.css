@@ -35,9 +35,10 @@ nav ul li a{
 
 /* banner section  */
 .banner{
-    background-image: url("/images/saturn-11620_640.jpg");
+/*     background-image: url("/images/saturn-11620_640.jpg"); */
     text-align: center;
-    background-size: contain;
+    background-color: #292c34;
+/*     background-size: contain; */
 }
 
 .banner h1{
