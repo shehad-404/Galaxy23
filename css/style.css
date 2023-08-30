@@ -35,7 +35,7 @@ nav ul li a{
 
 /* banner section  */
 .banner{
-    background-image: url(/images/saturn-11620_640.jpg);
+    background-image: url("/images/saturn-11620_640.jpg");
     text-align: center;
     background-size: contain;
 }
@@ -63,6 +63,7 @@ nav ul li a{
     font-size: 16px;
     font-weight: 600;
     margin-bottom: 200px;
+    cursor: pointer;
 }
 
 /* feature section  */
